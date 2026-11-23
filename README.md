@@ -9,5 +9,4 @@ Some tools that I want to incorporate in each lab is to make use of either Exacl
 
 
 
-<!-- <h1 id="info">Info</h1> -->
 [^1]: By sufficient, I mean that I'm able to implement it <b>and</b> explain it other people. 
