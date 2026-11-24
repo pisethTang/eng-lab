@@ -24,3 +24,8 @@ Each kind of Lambda has a job in the game. Web Functions run the arena, and Dura
 # Link to event 
 
 https://www.meetup.com/amazon-web-services-user-group-adelaide/events/317283526/?eventOrigin=home_page_upcoming_events%24all
+
+
+
+
+References can be found [here](references.md)
